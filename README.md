@@ -28,6 +28,6 @@ All the images can be flashed to uSD card using *bmaptool* utility. Steps are as
 
 2- Insert the card in PC and check device file /dev/sdX.
 
-3- run *bmaptool copy /dev/sdX demo-coreip-XYZ.wic.gz*
+3- run *bmaptool copy demo-coreip-XYZ.wic.gz /dev/sdX*
 
 3- Insert the card into the target.
