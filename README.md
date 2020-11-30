@@ -1,4 +1,4 @@
-# prebuilt-hfu-images
+# prebuilt-freedom-u540-images
 
 This repository is maintained by Software Development team at Lampro Mellon, who:
 
