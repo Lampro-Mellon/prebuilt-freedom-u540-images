@@ -16,8 +16,6 @@ Following is the description of directories in this repo:
 
 **cli-debug**: Command Line Interface image with debug packages.
 
-**xfce4-debug**: GUI based image with debug packages.
-
 **opencv**: CLI based image with Python packages added. For details of packages, see *opencv/README.md*
 
 # Flashing the Images
