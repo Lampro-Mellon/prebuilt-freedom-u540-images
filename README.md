@@ -31,3 +31,5 @@ All the images can be flashed to uSD card using *bmaptool* utility. Steps are as
 3- run *bmaptool copy demo-coreip-XYZ.wic.gz /dev/sdX*
 
 3- Insert the card into the target.
+
+4- Login is **root**, Password is **sifive**
